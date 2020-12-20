@@ -1,0 +1,66 @@
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe.config
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.pdb
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csprojAssemblyReference.cache
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csproj.CoreCompileInputs.cache
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.exe
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.pdb
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe.config
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.pdb
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csprojAssemblyReference.cache
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.exe
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe.config
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csprojAssemblyReference.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\CsvHelper.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\CsvHelper.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csproj.CopyComplete
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\LINQtoCSV.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\MyPayProject.exe.config
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\MyPayProject.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\MyPayProject.exe
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\MyPayProject.pdb
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\CsvHelper.dll
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\LINQtoCSV.dll
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\CsvHelper.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\obj\Debug\MyPayProject.csprojAssemblyReference.cache
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\obj\Debug\MyPayProject.csproj.CopyComplete
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\obj\Debug\MyPayProject.exe
+D:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution - Copy\MyPayProject\obj\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csproj.CoreCompileInputs.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csprojAssemblyReference.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csproj.CoreCompileInputs.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe.config
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\MyPayProject.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\CsvHelper.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\LINQtoCSV.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\CsvHelper.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\MyPaySolution\MyPayProject\obj\Debug\MyPayProject.csproj.CopyComplete
